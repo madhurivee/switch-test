@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.App-Header {
+  text-align: center;
+  margin-top: 3em;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 3em;
+}
+
+
